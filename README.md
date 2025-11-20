@@ -1,2 +1,1 @@
-# .github
-Company Info
+# Company Info
