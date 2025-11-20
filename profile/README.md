@@ -8,7 +8,6 @@
 ## Overview
 Fusion IT LLC is a trusted IT Services and Consulting provider headquartered in **Grand Rapids, Michigan**, serving West Michigan and beyond since **1991**. We specialize in delivering enterprise-level IT solutions with a focus on reliability, security, and integrity.
 
-**Website:** [fusion-it.net](https://www.fusion-it.net)  
 **Headquarters:** 4380 Brockton Dr SE, Suite 1, Grand Rapids, MI 49512  
 **Phone:** (616) 828-5360  
 
@@ -65,12 +64,6 @@ Grand Rapids, MI 49512
 United States
 ```
 
----
-
-## Connect With Us
-- **Website:** [fusion-it.net](https://www.fusion-it.net)
-- **LinkedIn:** [Fusion IT LLC](https://www.linkedin.com/company/fusion-it-llc/)
-- **Phone:** (616) 828-5360
 
 ---
 
